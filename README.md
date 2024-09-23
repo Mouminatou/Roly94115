@@ -1,0 +1,1 @@
+ceci est notre projet pour régler un conflit github
